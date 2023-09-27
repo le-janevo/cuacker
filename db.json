@@ -1,0 +1,23 @@
+{
+  "posts": [
+	{
+		"name": "Evelyn Wall",
+		"text": "quis arcu vel quam dignissim pharetra. Nam ac nulla. In"
+	},
+	{
+		"name": "Alfreda Houston",
+		"text": "lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac"
+	},
+	{
+		"name": "Castor Conway",
+		"text": "accumsan convallis, ante lectus convallis est, vitae sodales nisi magna"
+	},
+	{
+		"name": "TaShya Riddle",
+		"text": "in molestie tortor nibh sit amet orci. Ut sagittis lobortis"
+	},
+	{
+		"name": "Jermaine Herring",
+		"text": "porta elit, a feugiat tellus lorem eu metus. In lorem."
+	}
+]
